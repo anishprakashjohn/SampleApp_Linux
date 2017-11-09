@@ -143,7 +143,7 @@
   <body>
     <div class="container">
     <h1>LUV BA Portal</h1>
-    <p> Welcome to the LUV BA Portal</p>
+    <p> Welcome to the LUV BA Portal- GitHub</p>
     <div id="error"><?php echo $error; ?></div>
 
     <form method="post">
